@@ -17,5 +17,5 @@ To generate the shield with the link to the binder environment:
   The `Binder` tab allows to specify
   * `Git Environment Repository URL`: `https://github.com/ahartikainen/stan_sandbox`
   * `Git Content Repository URL`: e.g. `https://github.com/ahartikainen/BayesianWeather`
-  * and the file or folder to be opened: `RainGauge`
+  * and the file or folder to be opened: e.g. `RainGauge`
 * Create a custom shield from [Binder docs](https://mybinder.readthedocs.io/en/latest/howto/badges.html)
