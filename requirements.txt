@@ -1,3 +1,9 @@
 nbgitpuller
+numpy
+pandas
+bokeh
+matplotlib
 arviz
 pystan
+uncertainties
+upandas
